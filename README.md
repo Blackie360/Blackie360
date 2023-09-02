@@ -99,13 +99,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/blackhat">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=6&unique=true" alt="Spotify recently played"  />
-   
-  </a>
- 
-</div>
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317owtnqr2c4eoagzkhlfcd3juhu)
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317owtnqr2c4eoagzkhlfcd3juhu&unique={true|1|on|yes})
+
 ###
