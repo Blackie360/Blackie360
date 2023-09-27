@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **next js**
 
-- 👨‍💻 All of my projects are available at [https://felix-jumason.netlify.app/](https://felix-jumason.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://felix-jumason.vercel.app/](https://felix-jumason.vercel.app/)
 
 - 💬 Ask me about **react js**
 
