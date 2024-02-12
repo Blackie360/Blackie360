@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blackie360&label=Profile%20views&color=0e75b6&style=flat" alt="blackie360" /> </p>
 
-<p align="left"> <a href="https://twitter.com/360_gamerx" target="blank"><img src="https://img.shields.io/twitter/follow/360_gamerx?logo=twitter&style=for-the-badge" alt="360_gamerx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/blackie_360" target="blank"><img src="https://img.shields.io/twitter/follow/blackie_360?logo=twitter&style=for-the-badge" alt="360_gamerx" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
-- 🌱 I’m currently learning **Google Cyber Security**
+- 🔭 I’m currently working on **Next14.js**
+- 🌱 I’m currently learning **writting cleaner code**
 - 👯 I’m looking to collaborate on **front end projects**
-- 🤝 I’m looking for help with **Next.js**
+- 🤝 I’m looking for help with **apis**
 - 👨‍💻 All of my projects are available at [https://felix-jumason.vercel.app/](https://felix-jumason.vercel.app/)
 - 💬 Ask me about **React.js**
 - 📫 How to reach me **felixkent360@gmail.com**
@@ -41,11 +41,13 @@
 - [My Transformative Journey in 2023](https://medium.com/@codedblood22/my-transformative-journey-in-2023-6b140aad958f)
 - [Overcoming Asynchronous Hurdles in a File Sharing Web App](https://medium.com/@codedblood22/overcoming-asynchronous-hurdles-in-a-file-sharing-web-app-65d5931d6214)
 </p>
+<br />
 
 <h3 align="left">Talks:</h3>
 <p>
 - [Enhancing Auth](https://docs.google.com/presentation/d/1oMQ4Z8KTLQjquFsw6gejnBO-0Ndsp8U5bt_G76STvpY/edit#slide=id.g29ceaf775d4_10_17)
 </p>
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackie360&show_icons=true&locale=en&layout=compact" alt="blackie360" /></p>
 
