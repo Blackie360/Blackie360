@@ -47,6 +47,9 @@
 <p>
 - [Enhancing Auth](https://docs.google.com/presentation/d/1oMQ4Z8KTLQjquFsw6gejnBO-0Ndsp8U5bt_G76STvpY/edit#slide=id.g29ceaf775d4_10_17)
 </p>
+-[firebase Auth](https://docs.google.com/presentation/d/1rGa9uzNS3-PbqH8EtsVx7Vaw1Gtl1ViJrolec3PtGrg/edit?usp=sharing)
+
+
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackie360&show_icons=true&locale=en&layout=compact" alt="blackie360" /></p>
