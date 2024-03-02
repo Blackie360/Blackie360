@@ -47,10 +47,10 @@
 <p>
 - [Enhancing Auth](https://docs.google.com/presentation/d/1oMQ4Z8KTLQjquFsw6gejnBO-0Ndsp8U5bt_G76STvpY/edit#slide=id.g29ceaf775d4_10_17)
 </p>
--[firebase Auth](https://docs.google.com/presentation/d/1rGa9uzNS3-PbqH8EtsVx7Vaw1Gtl1ViJrolec3PtGrg/edit?usp=sharing)
+- [firebase Auth](https://docs.google.com/presentation/d/1rGa9uzNS3-PbqH8EtsVx7Vaw1Gtl1ViJrolec3PtGrg/edit?usp=sharing)
 
 <p>
-  -[git and github] (https://www.canva.com/design/DAF95XcsKW0/TUsvzkgDEqDfPcsaJickUw/edit?utm_content=DAF95XcsKW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - [git and github](https://www.canva.com/design/DAF95XcsKW0/TUsvzkgDEqDfPcsaJickUw/edit?utm_content=DAF95XcsKW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 </p>
 
 
