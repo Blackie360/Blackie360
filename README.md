@@ -52,6 +52,9 @@
 <p>
   - [git and github](https://www.canva.com/design/DAF95XcsKW0/TUsvzkgDEqDfPcsaJickUw/edit?utm_content=DAF95XcsKW0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 </p>
+<p>
+  - [postman API](https://docs.google.com/presentation/d/1d7tJkYpgE6y2pXhdpuXyaKA-v0UjoW_VPSgNV88tUO0/edit#slide=id.g25e635563fa_0_2352)
+</p>
 
 
 <br />
