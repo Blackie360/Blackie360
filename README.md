@@ -40,6 +40,7 @@
 <p>
 - [My Transformative Journey in 2023](https://medium.com/@codedblood22/my-transformative-journey-in-2023-6b140aad958f)
 - [Overcoming Asynchronous Hurdles in a File Sharing Web App](https://medium.com/@codedblood22/overcoming-asynchronous-hurdles-in-a-file-sharing-web-app-65d5931d6214)
+  - [hashnode](https://blackie.hashnode.dev/)
 </p>
 <br />
 
