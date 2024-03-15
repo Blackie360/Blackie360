@@ -56,6 +56,9 @@
 <p>
   - [postman API](https://docs.google.com/presentation/d/1d7tJkYpgE6y2pXhdpuXyaKA-v0UjoW_VPSgNV88tUO0/edit#slide=id.g25e635563fa_0_2352)
 </p>
+<p>
+  - [IWD WTM PWANI](https://docs.google.com/presentation/d/1lNttCHAxI4YuaeY-H990jdiiDb7qzpQdzysOKNKTMjs/edit#slide=id.g26157c686c7_0_343)
+</p>
 
 
 <br />
