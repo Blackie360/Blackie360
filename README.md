@@ -62,7 +62,6 @@
 
 
 <br />
-[![wakatime](https://wakatime.com/badge/user/018c734e-f830-46f1-9680-246e7e977262/project/018e6f49-604a-4387-bfbc-964ee0375944.svg)](https://wakatime.com/badge/user/018c734e-f830-46f1-9680-246e7e977262/project/018e6f49-604a-4387-bfbc-964ee0375944)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackie360&show_icons=true&locale=en&layout=compact" alt="blackie360" /></p>
 
