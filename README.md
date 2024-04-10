@@ -60,7 +60,6 @@
   - [IWD WTM PWANI](https://docs.google.com/presentation/d/1lNttCHAxI4YuaeY-H990jdiiDb7qzpQdzysOKNKTMjs/edit#slide=id.g26157c686c7_0_343)
 </p>
 
-
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackie360&show_icons=true&locale=en&layout=compact" alt="blackie360" /></p>
