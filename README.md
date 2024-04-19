@@ -53,8 +53,6 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackie360&show_icons=true&locale=en&layout=compact" alt="blackie360" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackie360&show_icons=true&locale=en" alt="blackie360" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackie360&" alt="blackie360" /></p>
+<div id='profile-them'><a class='github-status' href='https://github.com/Blackie360'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Blackie360&show_icons=true&theme=radical' />
+<a class='Most-used-languages' href='https://github.com/Blackie360'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Blackie360&layout=compact' />
+</div>
