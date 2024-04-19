@@ -1,18 +1,9 @@
-<h1 align="center">Hi 👋, I'm Felix Jumason</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+### Hi there 👋 I'm Lucas Wong 🙂
+<div align="center">
+	<br>
+  <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackie360&label=Profile%20views&color=0e75b6&style=flat" alt="blackie360" /> </p>
-
-<p align="left"> <a href="https://twitter.com/blackie_360" target="blank"><img src="https://img.shields.io/twitter/follow/blackie_360?logo=twitter&style=for-the-badge" alt="360_gamerx" /></a> </p>
-
-- 🔭 I’m currently working on **Next14.js**
-- 🌱 I’m currently learning **writting cleaner code**
-- 👯 I’m looking to collaborate on **front end projects**
-- 🤝 I’m looking for help with **apis**
-- 👨‍💻 All of my projects are available at [https://felix-jumason.vercel.app/](https://felix-jumason.vercel.app/)
-- 💬 Ask me about **React.js**
-- 📫 How to reach me **felixkent360@gmail.com**
-- ⚡ Fun fact **The term "bug" originates from a real insect: The term "bug" in programming comes from an incident in 1947 when a moth was found inside a computer relay at Harvard University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
