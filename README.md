@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Lucas Wong 🙂
+### Hi there 👋 I'm Felix Jumason 🙂
 <div align="center">
 	<br>
   <img src="about-me.svg" width="800" height="auto" alt="Click to see the source">
