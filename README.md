@@ -50,6 +50,9 @@
 <p>
   - [IWD WTM PWANI](https://docs.google.com/presentation/d/1lNttCHAxI4YuaeY-H990jdiiDb7qzpQdzysOKNKTMjs/edit#slide=id.g26157c686c7_0_343)
 </p>
+<p>
+-[Tilconf'24 AI for smarter docs](https://1drv.ms/p/c/cd805a8c3d168890/EZiG_K4h4kJNuiP5XYjZEQYBamivxhJ7l99SgjCKcEsIHA?e=zrhLuv)
+</p>
 
 <br />
 
