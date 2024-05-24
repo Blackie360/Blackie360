@@ -53,7 +53,9 @@
 <p>
 -[Tilconf'24 AI for smarter docs](https://1drv.ms/p/c/cd805a8c3d168890/EZiG_K4h4kJNuiP5XYjZEQYBamivxhJ7l99SgjCKcEsIHA?e=zrhLuv)
 </p>
-
+<p>
+-[Write the Docs Summit 2024](https://docs.google.com/presentation/d/18OH3noQtJkXTpaMoIEPXzSCtX-bQSATEWPn1jJkhPwA/edit?usp=sharing}
+</p>
 <br />
 
 <div id='profile-them'><a class='github-status' href='https://github.com/Blackie360'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Blackie360&show_icons=true&theme=radical' />
