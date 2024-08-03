@@ -56,6 +56,9 @@
 <p>
 -[Write the Docs Summit 2024](https://docs.google.com/presentation/d/18OH3noQtJkXTpaMoIEPXzSCtX-bQSATEWPn1jJkhPwA/edit?usp=sharing}
 </p>
+<p>
+-[GDG Pwani google IO Extended Next on fire](https://docs.google.com/presentation/d/1H4fDRZO4VuH6EYdtFmIxLPAIePcPRuiSvH1y39piWtQ/edit?usp=sharing) 
+</p>
 <br />
 
 <div id='profile-them'><a class='github-status' href='https://github.com/Blackie360'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Blackie360&show_icons=true&theme=radical' />
