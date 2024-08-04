@@ -54,7 +54,7 @@
 -[Tilconf'24 AI for smarter docs](https://1drv.ms/p/c/cd805a8c3d168890/EZiG_K4h4kJNuiP5XYjZEQYBamivxhJ7l99SgjCKcEsIHA?e=zrhLuv)
 </p>
 <p>
--[Write the Docs Summit 2024](https://docs.google.com/presentation/d/18OH3noQtJkXTpaMoIEPXzSCtX-bQSATEWPn1jJkhPwA/edit?usp=sharing}
+-[Write the Docs Summit 2024](https://docs.google.com/presentation/d/18OH3noQtJkXTpaMoIEPXzSCtX-bQSATEWPn1jJkhPwA/edit?usp=sharing)
 </p>
 <p>
 -[GDG Pwani google IO Extended Next on fire](https://docs.google.com/presentation/d/1H4fDRZO4VuH6EYdtFmIxLPAIePcPRuiSvH1y39piWtQ/edit?usp=sharing) 
