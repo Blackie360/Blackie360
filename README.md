@@ -59,6 +59,9 @@
 <p>
 -[GDG Pwani google IO Extended Next on fire](https://docs.google.com/presentation/d/1H4fDRZO4VuH6EYdtFmIxLPAIePcPRuiSvH1y39piWtQ/edit?usp=sharing) 
 </p>
+<p>
+-[Rendercon 2024 lucia auth](https://docs.google.com/presentation/d/1bhnH82WBIMYzbEdQbhqKXzaEW_xJ_9sz/edit?usp=sharing&ouid=112824039673140885594&rtpof=true&sd=true)
+</p>
 <br />
 
 <div id='profile-them'><a class='github-status' href='https://github.com/Blackie360'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Blackie360&show_icons=true&theme=radical' />
