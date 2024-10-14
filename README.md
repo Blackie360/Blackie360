@@ -66,8 +66,12 @@
 <p>
 -[AWS Amplify student Community day KE](https://docs.google.com/presentation/d/1Vlmm7Xoy481tv0pQo3OFz4dMJv5fASg0/edit?usp=sharing&ouid=112824039673140885594&rtpof=true&sd=true)
 </p>
+
 <p>
 -[Pycon Uganda API 101:Fundamentals](https://docs.google.com/presentation/d/1qeVIwNw-pIvziLpNSnblxW39ArQX27HJ/edit?usp=sharing&ouid=112824039673140885594&rtpof=true&sd=true)
+</p>
+<p>
+-[Pycon Uganda API in Python](https://docs.google.com/presentation/d/1Bcp6nskbNc-IAaWN3ALdzOG_vfY2kO_9/edit?usp=sharing&ouid=112824039673140885594&rtpof=true&sd=true)
 </p>
 <br />
 
