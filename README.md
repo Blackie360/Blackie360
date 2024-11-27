@@ -73,6 +73,9 @@
 <p>
 -[Pycon Uganda API in Python](https://docs.google.com/presentation/d/1Bcp6nskbNc-IAaWN3ALdzOG_vfY2kO_9/edit?usp=sharing&ouid=112824039673140885594&rtpof=true&sd=true)
 </p>
+<p>
+=[API Series Load testing](https://prezi.com/view/i4sMqNddspZMyPuxe76h/)
+</p>
 <br />
 
 <div id='profile-them'><a class='github-status' href='https://github.com/Blackie360'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=Blackie360&show_icons=true&theme=radical' />
